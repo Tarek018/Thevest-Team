@@ -1,0 +1,13 @@
+.post-container{
+    border: 1px solid black;
+    padding: 17px;
+    margin-bottom: 34px;
+    margin-top: 34px;
+    margin-left: 34px;
+    margin-right: 93px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}

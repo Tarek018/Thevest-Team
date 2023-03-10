@@ -1,0 +1,17 @@
+.login {
+    position: relative;
+    height: 740px;
+}
+.content {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+input {
+    border: none;
+    padding: 10px;
+    height: 25px;
+    outline: none;
+}
